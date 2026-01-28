@@ -1,4 +1,4 @@
-# My Skills
+# cursor Skills
 
 一个用于 [Cursor](https://cursor.com) 的 **Agent Skills（技能）** 仓库，用于存放可复用的技能定义，让 AI 助手在相关任务中自动遵循既定规范和最佳实践。
 
@@ -57,3 +57,4 @@ my-skills/
 ---
 
 _本项目用于集中管理与复用 Cursor Agent Skills，便于在不同项目中保持一致的 AI 协作标准。_
+
